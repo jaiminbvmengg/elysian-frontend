@@ -12,7 +12,7 @@ export default function ProductModal({ product, onClose }) {
 
         <div className="modal-actions">
           <a
-            href={`https://www.instagram.com/elysian_k2?igsh=YjF3M3V1ZGE0ZTU=`}
+            href={`https://www.instagram.com/${instaUsername}`}
             target="_blank"
             rel="noreferrer"
             className="insta-btn"
