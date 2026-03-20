@@ -27,9 +27,9 @@ export default function Footer() {
         <div className="footer-box">
           <h4>Follow</h4>
           <div className="social-icons">
-            <a href="https://www.instagram.com/elysian_k2?igsh=YjF3M3V1ZGE0ZTU=" aria-label="Instagram">
+            {/* <a href="https://www.instagram.com/elysian_k2?igsh=YjF3M3V1ZGE0ZTU=" aria-label="Instagram">
               <i className="fab fa-instagram"></i>
-            </a>
+            </a> */}
             <a href="https://wa.me/919316500894" aria-label="WhatsApp">
               <i className="fab fa-whatsapp"></i>
             </a>
